@@ -1,0 +1,23 @@
+{
+  "name": "socketiochat",
+  "version": "1.0.0",
+  "description": "Simple chat app using sockets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deafult2010/socketiochat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deafult2010/socketiochat/issues"
+  },
+  "homepage": "https://github.com/deafult2010/socketiochat#readme",
+  "dependencies": {
+    "mongodb": "^3.3.3",
+    "socket.io": "^2.3.0"
+  }
+}
